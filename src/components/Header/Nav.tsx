@@ -16,7 +16,7 @@ const Nav: React.FC = () => {
         <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://airswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://t.me/airswapbot">
+      <StyledAbsoluteLink href="https://t.me/AirswapCommunity">
         <TranslatedText translationId={14}>Airdrop</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
