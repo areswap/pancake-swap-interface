@@ -36,7 +36,7 @@
     {
       "name": "Airswap Token",
       "symbol": "AIR",
-      "address": "0xd9e2c3Ad3A1F99AeAe8cc90d840F16934741FEF5",
+      "address": "0x1c9135bC107F6b51e61C1c27f219203Df83Fea6d",
       "chainId": 56,
       "decimals": 8,
       "logoURI": "/images/coins/AIR.png"
