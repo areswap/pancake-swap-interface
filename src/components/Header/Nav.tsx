@@ -13,11 +13,11 @@ const Nav: React.FC = () => {
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://www.binance.org/en/panama">Bridge</StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://airswap.finance" className="active">
-        <TranslatedText translationId={8}>Trade Swap</TranslatedText>
+        <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://airswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="Airdrop">
-        <TranslatedText translationId={14}>Lottery</TranslatedText>
+      <StyledAbsoluteLink href="https://t.me/airswapbot">
+        <TranslatedText translationId={14}>Airdrop</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
   )
