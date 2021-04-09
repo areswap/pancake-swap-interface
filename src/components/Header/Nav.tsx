@@ -5,18 +5,18 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/farms">
-        <TranslatedText translationId={2}>Farm</TranslatedText>
+      <StyledAbsoluteLink href="https://bscscan.com/tx/0x8466d56ea86ec78374f4c6e0ca3648746afa3cbbbd248250bca2278bba25b0b8">
+        <TranslatedText translationId={2}>Liquidity Locking</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/staking">
-        <TranslatedText translationId={4}>Staking</TranslatedText>
+      <StyledAbsoluteLink href="https://farm.airswap.finance">
+        <TranslatedText translationId={4}>Farm</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/syrup">SYRUP Pool</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://exchange.pancakeswap.finance" className="active">
-        <TranslatedText translationId={8}>Exchange</TranslatedText>
+      <StyledAbsoluteLink href="https://www.binance.org/en/panama">Bridge</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://airswap.finance" className="active">
+        <TranslatedText translationId={8}>Trade Swap</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/lottery">
+      <StyledAbsoluteLink href="https://airswap.info">Analytics</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="Airdrop">
         <TranslatedText translationId={14}>Lottery</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
