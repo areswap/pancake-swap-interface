@@ -30,6 +30,6 @@ export default {
     buttonText: '#ffffff',
 
     // secondary colors
-    secondary1: '#13aab5'
+    secondary1: '#FF009D'
   }
 }
