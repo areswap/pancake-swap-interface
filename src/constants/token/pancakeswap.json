@@ -103,7 +103,15 @@
     "symbol": "SYRUP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "/images/coins/SYRUP.png"
+    "logoURI": "/images/coins/SYRUP.png" 
+    },
+    {
+    "name": "Mcr Stablecoin",
+    "address": "0x823d4Dc0461B1088F4256838186471091C2bf704",
+    "symbol": "MCR",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "/images/coins/MCR.png"
     },
     {
       "name": "EOS Token",
