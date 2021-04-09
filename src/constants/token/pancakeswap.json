@@ -26,20 +26,12 @@
       "decimals": 18
     },
     {
-      "name": "ARE Token",
-      "symbol": "ARE",
-      "address": "0x04c330E5c9D097FA2BB2Af05B0D20CC40744B788",
+      "name": "CAT USD",
+      "symbol": "CATUSD",
+      "address": "0x2EA4b731D5C7e9354Eae6B12E4b8870aDAd02ba4",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/ARE.png"
-    },
-    {
-      "name": "Airswap Token",
-      "symbol": "AIR",
-      "address": "0x1c9135bC107F6b51e61C1c27f219203Df83Fea6d",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/AIR.png"
+      "logoURI": "/images/coins/CATUSD.png"
     },
     {
       "name": "BUSD Token",
@@ -58,12 +50,12 @@
       "logoURI": "/images/coins/bake.png"
     },
     {
-      "name": "Mimonswap Token",
-      "symbol": "MM",
-      "address": "0xC0E1b0531c2f64efa9CaE09669565841760a276f",
+      "name": "Syrup Token",
+      "symbol": "SYRUP",
+      "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
       "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/MIMON.png"
+      "decimals": 18,
+      "logoURI": "/images/coins/SYRUP.png"
     },
     {
       "name": "BUSD Token",
@@ -98,20 +90,12 @@
       "logoURI": "/images/coins/band.png"
     },
     {
-    "name": "SyrupBar Token",
-    "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
-    "symbol": "SYRUP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "/images/coins/SYRUP.png" 
-    },
-    {
-    "name": "Mcr Stablecoin",
-    "address": "0x823d4Dc0461B1088F4256838186471091C2bf704",
-    "symbol": "MCR",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "/images/coins/MCR.jpg"
+      "name": "Airswap token",
+      "symbol": "AIR",
+      "address": "0x1c9135bC107F6b51e61C1c27f219203Df83Fea6d",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/AIR.png"
     },
     {
       "name": "EOS Token",
@@ -130,14 +114,6 @@
       "logoURI": "/images/coins/USDT-icon.png"
     },
     {
-      "name": "CAT USD",
-      "symbol": "CATUSD",
-      "address": "0x2EA4b731D5C7e9354Eae6B12E4b8870aDAd02ba4",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "/images/coins/CATUSD.png"
-    },
-    {
       "name": "XRP Token",
       "symbol": "XRP",
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
@@ -146,20 +122,12 @@
       "logoURI": "/images/coins/XRP-icon.png"
     },
     {
-      "name": "XRP Token",
-      "symbol": "XRP",
-      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/XRP-icon.png"
-    },
-    {
-      "name": "Dai Token",
-      "symbol": "DAI",
-      "address": "0x567023d3A3c98DeC6fEB3710C0bA48BBd6Fc04F7",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/DAI.png"
+      "logoURI": "/images/coins/BCH-icon.png"
     },
     {
       "name": "Litecoin Token",
@@ -205,12 +173,12 @@
       "decimals": 18
     },
     {
-      "name": "CAT Token",
-      "symbol": "CAT",
-      "address": "0x1A7f0b3aF6e9E9953F4b61ECB2791E55dC7Dcb19",
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/CAT.png"
+      "logoURI": "/images/coins/DAI-icon.png"
     },
     {
       "name": "YFII.finance Token",
@@ -218,14 +186,6 @@
       "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
       "chainId": 56,
       "decimals": 18
-    },
-    {
-      "name": "Dai Token",
-      "symbol": "DAI",
-      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/DAI-icon.png"
     },
     {
       "name": "Cream",
