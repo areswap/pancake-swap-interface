@@ -26,12 +26,20 @@
       "decimals": 18
     },
     {
-      "name": "Areswap Token",
+      "name": "ARE Token",
       "symbol": "ARE",
       "address": "0x04c330E5c9D097FA2BB2Af05B0D20CC40744B788",
       "chainId": 56,
       "decimals": 8,
       "logoURI": "/images/coins/ARE.png"
+    },
+    {
+      "name": "Airswap Token",
+      "symbol": "ARE",
+      "address": "0x04c330E5c9D097FA2BB2Af05B0D20CC40744B788",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/AIR.png"
     },
     {
       "name": "BUSD Token",
