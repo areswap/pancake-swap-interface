@@ -4,26 +4,26 @@ export default {
   ...base,
   colors: {
     ...base.colors,
-    shadow1: '#2F80ED',
+    shadow1: '#FF009D',
     text1: '#452A7A',
-    text2: '#7645D9',
-    text3: '#888D9B',
-    text4: '#C3C5CB',
+    text2: '#FF009D',
+    text3: '#FF009D',
+    text4: '#FF009D',
 
     // backgrounds / greys
-    bg0: '#F5F3F3',
-    bg1: '#FFFDFA',
-    bg2: '#F5F3F3',
-    bg3: '#EDEEF2',
-    bg4: '#CED0D9',
-    bg5: '#43d3db',
+    bg0: '#FF009D',
+    bg1: '#FF009D',
+    bg2: '#FF009D',
+    bg3: '#FF009D',
+    bg4: '#FF009D',
+    bg5: '#FF009D',
     modalBG: 'rgba(0,0,0,0.3)',
     advancedBG: 'rgba(255,255,255,0.6)',
 
     //primary colors
-    primary1: '#43d3db',
-    primary4: '#bfe0e2',
-    primary5: '#daedef',
+    primary1: '#FF009D',
+    primary4: '#FF009D',
+    primary5: '#FF009D',
 
     // color text
     primaryText1: '#13aab5',
