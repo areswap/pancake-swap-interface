@@ -130,6 +130,14 @@
       "logoURI": "/images/coins/USDT-icon.png"
     },
     {
+      "name": "CAT USD",
+      "symbol": "CATUSD",
+      "address": "0x2EA4b731D5C7e9354Eae6B12E4b8870aDAd02ba4",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/CATUSD.png"
+    },
+    {
       "name": "XRP Token",
       "symbol": "XRP",
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
