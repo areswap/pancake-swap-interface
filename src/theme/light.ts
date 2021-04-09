@@ -5,7 +5,7 @@ export default {
   colors: {
     ...base.colors,
     shadow1: '#FF009D',
-    text1: '#452A7A',
+    text1: '#FF009D',
     text2: '#FF009D',
     text3: '#FF009D',
     text4: '#FF009D',
@@ -26,10 +26,10 @@ export default {
     primary5: '#FF009D',
 
     // color text
-    primaryText1: '#13aab5',
+    primaryText1: '#FF009D',
     buttonText: '#ffffff',
 
     // secondary colors
-    secondary1: '#13aab5'
+    secondary1: '#FF009D'
   }
 }
