@@ -62,7 +62,7 @@
       "symbol": "MM",
       "address": "0xC0E1b0531c2f64efa9CaE09669565841760a276f",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "/images/coins/MIMON.png"
     },
     {
