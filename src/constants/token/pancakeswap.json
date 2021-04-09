@@ -66,6 +66,14 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
+      "name": "CAT DAI",
+      "symbol": "CATDAI",
+      "address": "0xB0bCfbeD6Ea222dB16152f0a0C54993FBc91525d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/CATDAI.png"
+    },
+    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
