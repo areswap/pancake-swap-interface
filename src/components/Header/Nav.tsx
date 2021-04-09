@@ -5,7 +5,7 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://bscscan.com/tx/0x8466d56ea86ec78374f4c6e0ca3648746afa3cbbbd248250bca2278bba25b0b8">
+      <StyledAbsoluteLink href="https://bscscan.com/tx/0xf50fd30a724cd91baea93304f64cdd3b3a4b62b3009dda726c0169ff17e53699">
         <TranslatedText translationId={2}>Liquidity Locking</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://farm.airswap.finance">
