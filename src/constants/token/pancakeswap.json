@@ -106,12 +106,12 @@
       "logoURI": "/images/coins/band.png"
     },
     {
-      "name": "Airswap token",
-      "symbol": "AIR",
-      "address": "0x1c9135bC107F6b51e61C1c27f219203Df83Fea6d",
+      "name": "Safe Chain",
+      "symbol": "SAFEC",
+      "address": "0xE2F4cD8fbB67d0a82d9Bf44423C87299c1b417f0",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/AIR.png"
+      "logoURI": "/images/coins/SAFEC.png"
     },
     {
       "name": "EOS Token",
