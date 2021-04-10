@@ -51,11 +51,19 @@
     },
     {
       "name": "Binance Smart Chain Nice",
-      "symbol": "BSC",
+      "symbol": "BSCN",
       "address": "0x38b9861cc8Aa30f929425C5b3Eb2C8Dd57Aa2E2F",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "/images/coins/BSC9.png"
+      "logoURI": "/images/coins/BSCN.png"     
+    },
+    {
+      "name": "BSC EXCHANGE",
+      "symbol": "BSC",
+      "address": "0xfC45AD458622e8b04fDb1a675B8747Dae7dCb684",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/BSC.png"
     },
     {
       "name": "BUSD Token",
