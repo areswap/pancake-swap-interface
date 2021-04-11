@@ -98,12 +98,12 @@
       "logoURI": "/images/coins/BTC-icon.png"
     },
     {
-      "name": "BAND Protocol Token",
-      "symbol": "BAND",
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "name": "SafeDAO Protocol",
+      "symbol": "DAO",
+      "address": "0x323938D1e76c145DED3d260717Ec8bcC566278FE",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/band.png"
+      "decimals": 8,
+      "logoURI": "/images/coins/DAO.png"
     },
     {
       "name": "Safe Chain",
@@ -114,12 +114,12 @@
       "logoURI": "/images/coins/SAFEC.png"
     },
     {
-      "name": "EOS Token",
-      "symbol": "EOS",
-      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "name": "MALLSBASE",
+      "symbol": "BASE",
+      "address": "0xAF673d41Cf5531f49717633F5b2Ff400d7521de5",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/coins/eos.png"
+      "decimals": 8,
+      "logoURI": "/images/coins/BASE.png"
     },
     {
       "name": "Tether USD",
